@@ -2,7 +2,7 @@ Movie App README
 
 
 
-https://github.com/OktayX7/native-movie-app/assets/119359469/e38cd026-487e-42c0-aed0-5c158f86e63a
+https://github.com/OktayX7/native-movie-app/assets/119359469/9a5e3393-0e5d-45c3-9348-882d43d94452
 
 
 
