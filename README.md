@@ -1,6 +1,10 @@
 Movie App README
 
-https://github.com/OktayX7/native-movie-app/assets/119359469/abac52a4-3526-429c-bbe3-e0c654d3cc79
+
+
+https://github.com/OktayX7/native-movie-app/assets/119359469/e38cd026-487e-42c0-aed0-5c158f86e63a
+
+
 
 Welcome to the README for the Movie App, a feature-rich React Native application for browsing and discovering movies. This document provides an overview of the project, details about the technologies and libraries used, instructions on setting up and running the app, and key features.
 <br/>
