@@ -4,7 +4,7 @@ Can be shown the movie and their detailed information via this app.
 
 <h2> External Usage </h2>
 
-SwiftUI & Combine frameworks are used. MVVM was implemented.
+React Native & Redux Toolkit & Nativewind & Axios are used.
 
 <h2> Screen </h2>
 
