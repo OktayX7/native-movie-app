@@ -1,6 +1,5 @@
 import {View, Text, Image, TouchableOpacity, FlatList} from 'react-native';
 import React from 'react';
-import {image185, fallbackPersonImage} from '../api/moviedb';
 import {PersonListItem} from './PersonListItem';
 
 export const Cast = ({data, navigation}) => {

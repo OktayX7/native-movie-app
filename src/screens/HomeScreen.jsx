@@ -1,6 +1,5 @@
 import {
   View,
-  Text,
   StatusBar,
   Platform,
   TouchableOpacity,
@@ -9,7 +8,6 @@ import {
 import React, {useEffect} from 'react';
 import {SafeAreaView} from 'react-native-safe-area-context';
 import Icon from 'react-native-vector-icons/AntDesign';
-import {styles} from '../theme';
 import {Logo, MovieList, TrendingMovies} from '../components';
 import {useNavigation} from '@react-navigation/native';
 import {
@@ -17,7 +15,6 @@ import {
   getTopRatedMoviesAction,
   getUpcomingState,
   getTopRatedState,
-  getLoadingState,
 } from '../libs';
 import {useAppDispatch, useAppSelector} from '../hooks';
 export const HomeScreen = () => {
@@ -33,7 +30,6 @@ export const HomeScreen = () => {
 
   const upcomingMov = useAppSelector(getUpcomingState());
   const topRatedMov = useAppSelector(getTopRatedState());
-  const loading = useAppSelector(getLoadingState());
 
   return (
     <View className="flex-1 bg-neutral-800">

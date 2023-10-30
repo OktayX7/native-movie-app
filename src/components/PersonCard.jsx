@@ -1,6 +1,6 @@
 import {View, Text, Image, Dimensions} from 'react-native';
 import React from 'react';
-import {image342, image185, fallbackPersonImage} from '../api/moviedb';
+import {image342, fallbackPersonImage} from '../api/moviedb';
 import {MovieList} from './MovieList';
 
 export const PersonCard = ({person, personMovies, detail}) => {

@@ -1,4 +1,4 @@
-import {Text, TouchableWithoutFeedback, Dimensions, Image} from 'react-native';
+import {TouchableWithoutFeedback, Dimensions, Image} from 'react-native';
 import React from 'react';
 import {image500} from '../api/moviedb';
 import {useNavigation} from '@react-navigation/native';
