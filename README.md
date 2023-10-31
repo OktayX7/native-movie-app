@@ -8,4 +8,5 @@ React Native & Redux Toolkit & Nativewind & Axios are used.
 
 <h2> Screen </h2>
 
-https://github.com/OktayX7/native-movie-app/assets/119359469/543a1f12-121e-41c5-8bca-7d41eb549e07
+https://github.com/OktayX7/native-movie-app/assets/119359469/558739a4-733a-43ab-baa0-54ca21db1d3c
+
